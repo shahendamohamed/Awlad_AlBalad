@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Playpen+Sans+Arabic:wght@100..800&display=swap');
+
+body {
+    font-family: "Playpen Sans Arabic", cursive;
+}
+.owl-carousel .owl-stage {
+    transform: translate3d(2549px, 0px, 0px) !important;
+    /* transition: all; */
+    /* width: 4867px; */
+}
